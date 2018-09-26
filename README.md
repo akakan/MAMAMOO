@@ -5,8 +5,7 @@
     <p>
       <a href="https://www.youtube.com/watch?v=ww8istTyQwo" target="_blank" title="Solar">
         <h7> Despacito
-          <h7>
-      </a>
+          <h7>      </a>
       <p>
         <h4> 1991년 2월 21생
           <p> 포지션: 리더, 메인 보컬
@@ -17,8 +16,7 @@
                   <p>
                     <a href="https://www.youtube.com/watch?v=zuLYy0TYzj8" target="_blank" title="MoonStar">
                       <h7> MoonMovie
-                        <h7>
-                    </a>
+                        <h7>                    </a>
                     <p>
                       <h4> 1992년 12월 22생
                         <p> 포지션: 랩, 퍼포먼스
@@ -30,8 +28,7 @@
                                 <p>
                                   <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="WheeIn">
                                     <h7> Finesse
-                                      <h7>
-                                  </a>
+                                      <h7>                                  </a>
                                   <p>
                                     <h4> 1995년 4월 7생
                                       <p> 포지션: 리드 보컬, 리드 댄서
@@ -42,12 +39,8 @@
                                               <p>
                                                 <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="Hwasa">
                                                   <h7> Queen
-                                                    <h7>
-                                                </a>
+                                                    <h7>                                                </a>
                                                 <p>
                                                   <h4> 1995년 7월 23생
                                                     <p> 포지션: 서브 보컬, 리드 래퍼
                                                     </p>
-</body>
-
-</html>
