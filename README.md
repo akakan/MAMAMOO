@@ -34,7 +34,7 @@
                                             <p>
                                               <h3> 화사 [안혜진] </h3>
                                               <p>
-                                                <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="Hwasa">
+                                                <a href="https://www.youtube.com/watch?v=ZP8pg4j5-MY" target="_blank" title="Hwasa">
                                                   <h7> Queen   <h7>                                     
                                                 <p>
                                                   <h4> 1995년 7월 23생
