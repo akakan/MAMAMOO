@@ -24,7 +24,7 @@
                               <p>
                                 <h3> 휘인 [정휘인] </h3>
                                 <p>
-                                  <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="WheeIn">
+                                  <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="WheeIn"> </a>
                                     <h7> Finesse <h7>                                
                                   <p>
                                     <h4> 1995년 4월 7생
