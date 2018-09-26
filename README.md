@@ -4,8 +4,7 @@
     <h3> 솔라 [김용선] </h3>
     <p>
       <a href="https://www.youtube.com/watch?v=ww8istTyQwo" target="_blank" title="Solar"> </a>
-        <h7> Despacito
-          <h7> 
+        <h7> Despacito <h7> 
       <p>
         <h4> 1991년 2월 21생
           <p> 포지션: 리더, 메인 보컬
@@ -15,8 +14,7 @@
                   <h3> 문별 [문별이] </h3>
                   <p>
                     <a href="https://www.youtube.com/watch?v=zuLYy0TYzj8" target="_blank" title="MoonStar"> </a>
-                      <h7> MoonMovie
-                        <h7>                    
+                      <h7> MoonMovie <h7>                    
                           <p>
                       <h4> 1992년 12월 22생
                         <p> 포지션: 랩, 퍼포먼스
@@ -27,8 +25,7 @@
                                 <h3> 휘인 [정휘인] </h3>
                                 <p>
                                   <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="WheeIn">
-                                    <h7> Finesse </a>
-                                      <h7>                                
+                                    <h7> Finesse <h7>                                
                                   <p>
                                     <h4> 1995년 4월 7생
                                       <p> 포지션: 리드 보컬, 리드 댄서
@@ -38,8 +35,7 @@
                                               <h3> 화사 [안혜진] </h3>
                                               <p>
                                                 <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="Hwasa">
-                                                  <h7> Queen </a>
-                                                    <h7>                                     
+                                                  <h7> Queen   <h7>                                     
                                                 <p>
                                                   <h4> 1995년 7월 23생
                                                     <p> 포지션: 서브 보컬, 리드 래퍼
