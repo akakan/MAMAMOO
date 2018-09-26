@@ -1,4 +1,4 @@
-#<ol>    <li><a href="MAMAMOO.html">멤버</a></li>    <li><a href="MAMAMOO.html">앨범</a></li>    <li><a href="MAMAMOO .html">수상경력</a></li>  </ol>
+<ol>    <li><a href="MAMAMOO.html">멤버</a></li>    <li><a href="MAMAMOO.html">앨범</a></li>    <li><a href="MAMAMOO .html">수상경력</a></li>  </ol>
 <h2>멤버</h2>
   <p>
     <h3> 솔라 [김용선] </h3>
