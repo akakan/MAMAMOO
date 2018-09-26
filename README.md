@@ -13,8 +13,8 @@
                 <p>
                   <h3> 문별 [문별이] </h3>
                   <p>
-                    <a href="https://www.youtube.com/watch?v=zuLYy0TYzj8" target="_blank" title="MoonStar"> </a>
-                      <h7> MoonMovie <h7>                    
+                    <a href="https://www.youtube.com/watch?v=zuLYy0TYzj8" target="_blank" title="MoonStar"> 
+                      <h7> MoonMovie <h7> </a>                    
                           <p>
                       <h4> 1992년 12월 22생
                         <p> 포지션: 랩, 퍼포먼스
