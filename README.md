@@ -5,7 +5,7 @@
     <p>
       <a href="https://www.youtube.com/watch?v=ww8istTyQwo" target="_blank" title="Solar">
         <h7> Despacito <h7>
-        <h4> 1991년 2월 21일
+        </a><h4> 1991년 2월 21일
           <p> 포지션: 리더, 메인 보컬
             <p>
               <p> <img src="file:///C:/Users/admin/Desktop/DYZFiOEUQAIV3QQ.jpg" width="50%">
@@ -13,7 +13,7 @@
                   <h3> 문별 [문별이] </h3>
                   <p>
                     <a href="https://www.youtube.com/watch?v=zuLYy0TYzj8" target="_blank" title="MoonStar">
-                     </a> <h7> MoonMovie <h7>                 
+                     <h7> MoonMovie <h7>                 
                       <h4> 1992년 12월 22일
                         <p> 포지션: 랩, 퍼포먼스
                           <p>
