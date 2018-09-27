@@ -5,8 +5,7 @@
     <p>
       <a href="https://www.youtube.com/watch?v=ww8istTyQwo" target="_blank" title="Solar">
         <h7> Despacito </a> <h7>
-      <p>
-        <h4> 1991년 2월 21생
+        <h4> 1991년 2월 21일
           <p> 포지션: 리더, 메인 보컬
             <p>
               <p> <img src="file:///C:/Users/admin/Desktop/DYZFiOEUQAIV3QQ.jpg" width="50%">
@@ -14,9 +13,8 @@
                   <h3> 문별 [문별이] </h3>
                   <p>
                     <a href="https://www.youtube.com/watch?v=zuLYy0TYzj8" target="_blank" title="MoonStar">
-                      <h7> MoonMovie <h7> </a>                  
-                          <p>
-                      <h4> 1992년 12월 22생
+                      <h7> MoonMovie <h7> </a>                 
+                      <h4> 1992년 12월 22일
                         <p> 포지션: 랩, 퍼포먼스
                           <p>
                             <p> <img src="file:///C:/Users/admin/Desktop/%EC%9E%84%ED%98%9C%EC%95%88/%EC%82%AC%EC%A7%84/Yellow%20Flower/%ED%9C%98%EC%9D%B8/DbJn_phVAAADlSB.jpg" width="50%">
@@ -25,9 +23,8 @@
                                 <h3> 휘인 [정휘인] </h3>
                                 <p>
                                   <a href="https://www.youtube.com/watch?v=SN__czIBavI8" target="_blank" title="WheeIn"> </a>
-                                    <h7> Finesse <h7>                                
-                                  <p>
-                                    <h4> 1995년 4월 7생
+                                    <h7> Finesse <h7> 
+                                    <h4> 1995년 4월 7일
                                       <p> 포지션: 리드 보컬, 리드 댄서
                                         <p>
                                           <p> <img src="file:///C:/Users/admin/Desktop/%EC%9E%84%ED%98%9C%EC%95%88/%EC%82%AC%EC%A7%84/m/ghktk.jpg" width="50%">
@@ -35,8 +32,7 @@
                                               <h3> 화사 [안혜진] </h3>
                                               <p>
                                                 <a href="https://www.youtube.com/watch?v=ZP8pg4j5-MY" target="_blank" title="Hwasa">
-                                                  <h7> Queen <h7>                                     
-                                                <p>
-                                                 <p> <h4> 1995년 7월 23생
+                                                  <h7> Queen <h7> 
+                                                 <p> <h4> 1995년 7월 23일
                                                     <p> 포지션: 서브 보컬, 리드 래퍼
                                                     </p>
